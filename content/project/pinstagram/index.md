@@ -16,7 +16,7 @@ links:
 - icon: linkedin
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: "linkedin.com/in/anuj-pahade"
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -30,5 +30,8 @@ url_video: ""
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+- Developed a Pinterest Clone as a software engineering project  
+- Incrementally   added   features   like   e-commerce   to   enable   users   to  
+buy and sell products and generate receipts  
+- Designed   and   implemented   an   Admin   Dashboard   to   monitor   activity  
+and manage content and users  
